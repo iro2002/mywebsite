@@ -217,7 +217,7 @@ function Profile() {
               <div className="absolute inset-0 bg-white transform -translate-x-full group-hover:translate-x-0 transition-transform duration-500 ease-in-out"></div>
             </a>
 
-            {/* ✅ Download CV (simple hover) */}
+         
             <a
               href="/Chamindu_Irosh_CV.pdf"
               download="Chamindu_Irosh_CV.pdf"
