@@ -14,6 +14,7 @@ import grafanaIcon from '../assets/Grafana.png'
 import githubIcon from '../assets/GitHub.png'
 import gitlabIcon from '../assets/GitLab.png'
 
+
 function Skills() {
   const skillCards = [
     {
