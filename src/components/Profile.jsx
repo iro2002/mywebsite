@@ -219,8 +219,8 @@ function Profile() {
 
          
             <a
-              href="/Chamindu_Irosh_CV.pdf"
-              download="Chamindu_Irosh_CV.pdf"
+              href="/Chamindu_CV.pdf"
+              download="Chamindu_CV.pdf"
               className="px-8 py-3 bg-white text-black rounded-full font-semibold hover:bg-gray-200 transition-all duration-300 transform hover:scale-105 hover:shadow-xl"
             >
               Download CV
